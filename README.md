@@ -18,4 +18,4 @@ Normal plane
 Interpolated plane
 ![alt text](https://github.com/AndrejHafner/Plane-interpolation/blob/master/planes/normal.jpeg)
 
-    [1]: https://en.wikipedia.org/wiki/Partition_of_unity
+  [1]: https://en.wikipedia.org/wiki/Partition_of_unity
